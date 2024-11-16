@@ -4,6 +4,23 @@ This repository contains my personalized Neovim configuration, featuring custom 
 
 ---
 
+## Table of Contents
+- [Key Mappings](#key-mappings)
+  - [Harpoon](#harpoon)
+  - [Lazygit](#lazygit)
+  - [Telescope](#telescope)
+  - [Nvim-Tree](#nvim-tree)
+  - [Undo Tree](#undo-tree)
+  - [Window Navigation](#window-navigation)
+- [Plugins and Features](#plugins-and-features)
+  - [Tree-Sitter](#tree-sitter)
+  - [General Settings](#general-settings)
+- [How to Use](#how-to-use)
+- [Contributions](#contributions)
+- [License](#license)
+
+---
+
 ## Key Mappings
 
 ### Harpoon

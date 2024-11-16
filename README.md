@@ -16,8 +16,6 @@ This repository contains my personalized Neovim configuration, featuring custom 
   - [Tree-Sitter](#tree-sitter)
   - [General Settings](#general-settings)
 - [How to Use](#how-to-use)
-- [Contributions](#contributions)
-- [License](#license)
 
 ---
 

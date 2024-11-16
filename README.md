@@ -123,4 +123,4 @@ This repository contains my personalized Neovim configuration, featuring custom 
 
 1. Clone this repository to your Neovim configuration directory:
    ```bash
-   git clone <repository-url> ~/.config/nvim
+   git clone <repository-url> ~/.config
